@@ -14,7 +14,7 @@
 4. Использование функций. Ваша программа
 не должна быть линейной
 
-komand: w r q d
+komand: w r q d c-copy
 """
 from csv import DictReader, DictWriter
 from os.path import exists
